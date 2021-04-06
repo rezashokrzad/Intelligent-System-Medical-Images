@@ -1,7 +1,7 @@
-# Intelligent-System-Medical-Images
+#Intelligent-System-Medical-Images
 Attempts to absorb applications of ML in Medical Images domain 
 
-## the first endevour, follwoing techniques have been impleneted:
+##the first endevour, follwoing techniques have been impleneted:
     1. conversion of raw mammography data into a gray-scale image:
             Implement the three main steps necessary to convert raw data into a gray-level image:
               - Logaritmic transformation
